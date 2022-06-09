@@ -1,0 +1,173 @@
+/* * { */
+
+
+/* box-sizing: border-box; */
+
+
+/* @font-face {
+        font-family: ProximaNova;
+        src: url("./fonts/ProximaNova-Regular.otf") format("opentype");
+    } */
+
+
+/* }
+
+body {
+    margin: 0; */
+
+
+/* max width: 1049px;
+    max-height: 200px; */
+
+
+/* font-family: 'merriweather';
+    color: rgb(35, 43, 155);
+    background-repeat: no-repeat;
+    background-color: #fff;
+    background-size: cover;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    lettwp-content/themes/products_pwp/style.csser-spacing: normal;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+} */
+
+
+/* .container {
+    max-width: 1400px;
+    padding: 0 15px;
+    margin: 0 auto;
+    display: block;
+    position: relative;
+}
+
+.container:after {
+    content: "";
+    clear: both;
+    display: table;
+} */
+
+
+/* header {
+    margin-top: 50px;
+    width: auto;
+    height: auto; */
+
+
+/* background-image: url(./images/e59a22e2-25e0-4e6a-af65-fa796bcacc3b-optimized.png); */
+
+
+/* background-image: linear-gradient(to right, rgb(100, 111, 212), rgba(14, 119, 79, 0.781));
+} */
+
+img {
+    margin: 26px;
+    width: 209px;
+    height: 100px;
+}
+
+
+/* background: url(./images/logo.svg); */
+
+
+/* } */
+
+#nav {
+    margin-top: 40px;
+    background-image: linear-gradient(to right, rgb(100, 111, 212), rgba(14, 119, 79, 0.781));
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 30px;
+    font-family: 'Mulish', sans-serif;
+}
+
+
+/* .chippy {
+    height: 300px;
+    margin-top: 100px;
+} */
+
+
+/* nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 30px;
+} */
+
+
+/* .nav-links {
+    margin-top: 38px;
+    height: 21px;
+    display: flex;
+    gap: 30px;
+    width: 850px;
+    justify-content: space-between;
+    list-style: none;
+    margin-left: auto;
+    font-family: 'Mulish', sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.nav-links a {
+    width: auto;
+    text-decoration: none;
+    color: rgb(10, 10, 10);
+}
+
+.search {
+    margin: -10px;
+}
+
+.searchbox {
+    margin-top: 0;
+    width: 245px;
+    height: 45px;
+    padding: 6px 12px 6px 12px;
+    opacity: 0.15;
+    border-radius: 3px;
+    background-color: #fff;
+    text-align: left;
+}
+
+.searchbox button {
+    background: url(./images/icons/search-white.svg);
+    background-color: rgb(10, 9, 9);
+}
+
+.searchbox span {
+    color: rgb(10, 10, 10);
+}
+
+.srchbtn {
+    width: 30px;
+    height: 30px;
+    align-items: left;
+}
+
+.heading h4 {
+    margin-left: 25px;
+    width: auto;
+    height: auto;
+    font-family: 'Mulish', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.93;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
+
+.searchsubtitle {
+    padding-bottom: 50px;
+}
+
+main {
+    width: 100%;
+    height: 500px;
+} */
